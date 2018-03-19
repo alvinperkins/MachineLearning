@@ -6,9 +6,9 @@
 # RNN 语言模型
   
   
-＃　deep learning 示例
+# deep learning 示例
    
-   Hello World
+   Hello World    
    基础　ＭＬ  
    神经网络  
        多层感知器　　　  
