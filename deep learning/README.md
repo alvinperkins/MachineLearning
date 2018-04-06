@@ -1,7 +1,7 @@
 
 # CNN
-cnn minist　手写数字识别   
-cnn cifar10 图像分类
+MINIST　手写数字识别   
+CIFAR10 图像分类   
 caffe 图像分类webapp
 
   
