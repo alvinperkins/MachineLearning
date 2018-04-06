@@ -1,14 +1,18 @@
 
 # CNN
-cnn minist　手写数字识别   
-cnn cifar10 图像分类
+MINIST　手写数字识别   
+CIFAR10 图像分类   
+caffe 图像分类webapp   
+LeNet on MNIST with Caffe
 
   
     
 # RNN 
-  RNN 语言模型
+  RNN 语言模型   
   word2vector
-  
+
+# 手写人工神经网络
+
 # deep learning 示例
    Tensorflow做线性回归的例子   
    
