@@ -1,7 +1,8 @@
 #! /usr/bin/env python
 #coding=utf-8
 
-# Authors: Hanxiaoyang <hanxiaoyang.ml@gmail.com>
+
+
 # simple naive bayes classifier to classify iris dataset
 
 # 代码功能：简易朴素贝叶斯分类器，直接取iris数据集，根据花的多种数据特征，判定是什么花
