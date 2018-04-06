@@ -1,12 +1,16 @@
 
-# Tensorflow做线性回归的例子
+# CNN
+cnn minist　手写数字识别   
+cnn cifar10 图像分类
 
   
     
-# RNN 语言模型
-  
+# RNN 
+  RNN 语言模型
+  word2vector
   
 # deep learning 示例
+   Tensorflow做线性回归的例子   
    
    Hello World    
    基础　ＭＬ  
