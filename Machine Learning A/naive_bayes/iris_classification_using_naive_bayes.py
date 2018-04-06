@@ -6,7 +6,7 @@
 
 # 代码功能：简易朴素贝叶斯分类器，直接取iris数据集，根据花的多种数据特征，判定是什么花
 # 详细说明参见博客http://blog.csdn.net/han_xiaoyang/article/details/50629608
-# 作者：寒小阳<hanxiaoyang.ml@gmail.com>
+# 作者：pawatwin
 
 from sklearn import datasets
 iris = datasets.load_iris()
