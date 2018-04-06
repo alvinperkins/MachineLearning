@@ -10,7 +10,9 @@ LeNet on MNIST with Caffe
 # RNN 
   RNN 语言模型   
   word2vector
-  
+
+# 手写人工神经网络
+
 # deep learning 示例
    Tensorflow做线性回归的例子   
    
