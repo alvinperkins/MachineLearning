@@ -8,7 +8,7 @@ LeNet on MNIST with Caffe
   
     
 # RNN 
-  RNN 语言模型
+  RNN 语言模型   
   word2vector
   
 # deep learning 示例
